@@ -1,4 +1,4 @@
-function hiren(){
+function harsh(){
 
     let income = document.getElementById("data").value;
     let tax1, tax2, tax3, tax4;

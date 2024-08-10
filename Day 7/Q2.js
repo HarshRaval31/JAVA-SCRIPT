@@ -1,4 +1,4 @@
-function hiren() {
+function harsh() {
 
     var t = document.getElementById("year").value;
     var p = document.getElementById("amount").value;

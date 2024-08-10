@@ -1,4 +1,4 @@
-function hiren() {
+function harsh() {
 
     var year = document.getElementById("h").value;
 

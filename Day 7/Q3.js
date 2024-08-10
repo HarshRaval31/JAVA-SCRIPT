@@ -1,4 +1,4 @@
-function hiren() {
+function harsh() {
 
     var billamount = +document.getElementById("amount").value;
     var charge = 50, totalbill, rate;

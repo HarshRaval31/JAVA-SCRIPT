@@ -1,4 +1,4 @@
-function hiren() {
+function harsh() {
     var a = document.getElementById("h").value;
     var b = document.getElementById("i").value;
     var c = document.getElementById("r").value;
@@ -12,6 +12,5 @@ function hiren() {
     else {
         alert("Scalene")
     }
-
 
 }

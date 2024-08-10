@@ -1,4 +1,4 @@
-function hiren() {
+function harsh() {
 
     var purchase = document.getElementById("h").value;
     var discount,total;

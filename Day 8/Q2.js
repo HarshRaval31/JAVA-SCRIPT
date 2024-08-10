@@ -1,4 +1,4 @@
-function hiren(){
+function harsh(){
 
     let electricity_bill = document.getElementById("data").value
     let peruinit1 ,peruinit2, peruinit3, peruinit4;

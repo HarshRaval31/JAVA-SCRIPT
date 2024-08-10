@@ -1,4 +1,4 @@
-function hiren() {
+function harsh() {
     var a = document.getElementById("h").value;
 
     if (a >= 90) {

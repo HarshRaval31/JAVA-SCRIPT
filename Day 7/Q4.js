@@ -1,4 +1,4 @@
-function hiren() {
+function harsh() {
 
     var press = document.getElementById("choice").value;
     var temp = +document.getElementById("h").value;

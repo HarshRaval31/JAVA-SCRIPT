@@ -1,4 +1,4 @@
-function hiren() {
+function harsh() {
 
     var incom = document.getElementById("h").value;
     var tax, final;

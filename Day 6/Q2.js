@@ -1,4 +1,4 @@
-function hiren() {
+function harsh() {
 
     var unit=document.getElementById("h").value;
     var monthly_bill;

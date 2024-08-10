@@ -1,4 +1,4 @@
-function hiren(){
+function harsh(){
 
     let purchase_amount = document.getElementById("data").value;
     let discount1, discount2, discount3  ;

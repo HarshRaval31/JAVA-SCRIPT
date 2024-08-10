@@ -1,4 +1,4 @@
-function hiren() {
+function harsh() {
 
     var temp = document.getElementById("h").value;
 

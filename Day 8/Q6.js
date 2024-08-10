@@ -1,4 +1,4 @@
-function hiren(){
+function harsh(){
 
     let temperature = document.getElementById("data").value;
 

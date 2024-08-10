@@ -1,4 +1,4 @@
-function hiren() {
+function harsh() {
 
   let age = document.getElementById("data").value;
 

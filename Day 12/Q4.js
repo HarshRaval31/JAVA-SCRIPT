@@ -2,6 +2,6 @@ function greet(name) {
     
     return name;
 }
-var h = greet("Hiren!");
+var h = greet("Harsh!");
 
 console.log(`Hello,${h}`)
