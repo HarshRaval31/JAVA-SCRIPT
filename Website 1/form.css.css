@@ -17,7 +17,7 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);  
     /* border: 1px solid black; */
     margin: 100px;  
-
+    position: relative;
   }  
     
   #singupMain h1 {  
@@ -101,14 +101,17 @@ body {
   .login-link:hover {  
     text-decoration: underline;  
   }
-  
+  #icon3{
+    position: absolute;
+    left: 400px;
+  }
 
   /* lOGIN CSS */  
 
   #loginMain {  
     display: none;
     width: 400px;  
-    margin: 200px;  
+    margin: 100px;  
     padding: 20px;  
     background-color: #fff;  
     /* border: 1px solid #ddd;   */
@@ -172,3 +175,4 @@ body {
   #icon1{
     color: white;
   }
+ 

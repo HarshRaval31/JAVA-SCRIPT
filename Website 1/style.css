@@ -178,11 +178,12 @@ nav ul li a{
 #section-1{
     width: 100%;
     height: 130px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 50px;
+    margin-bottom: 20px;
 }
 #subsection1{
     width: 80%;
@@ -213,4 +214,296 @@ nav ul li a{
 }
 #formA{
     text-decoration: none;
+}
+#section2{
+    width: 93%;
+    height: 520px;
+    /* border: 1px solid black; */
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 45px;
+  }
+  #card{
+    width: 24%;
+    height: 500px;
+    border-radius: 7px;
+    border: 1px solid rgb(172, 169, 169);
+  }
+  #card-img{
+    width: 100%;
+    height: 56%;
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    /* background-image: url(images/rice-fw-1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+  }
+  #img7{
+    width: 100%;
+    height: 100%;
+  }
+  #card-title{
+    width: 100%;
+    height: 44%;
+    /* border: 1px solid red; */
+    text-align: center;
+  }
+  #P6{
+    font-size: 13px;
+    line-height: 24px;
+    margin-bottom: 5px;
+    font-family :"Open Sans", sans-serif;
+  }
+  #P7{
+    color: darkgreen;
+    margin-bottom: 34px;
+    font-family :"Open Sans", sans-serif;
+  }
+  #P8{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-family :"Open Sans", sans-serif;
+  }
+  #P9{
+    color: darkgreen;
+    margin-bottom: 31px;
+    margin-top: 8px;
+    font-family :"Open Sans", sans-serif;
+  }
+  #P10{
+    font-size: 13px;
+    line-height: 21px;
+    margin-bottom: 10.5px;
+    font-family :"Open Sans", sans-serif;
+  }
+  #P11{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-family :"Open Sans", sans-serif;
+  }
+  #P12{
+    color: darkgreen;
+    margin-bottom: 15px;
+    font-family :"Open Sans", sans-serif;
+  }
+  #P13{
+    color: darkgreen;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-family :"Open Sans", sans-serif;
+  }
+  #S1{
+    font-family :"Open Sans", sans-serif;
+  }
+  #icon1{
+        width: 15px;
+        height: 10px;
+        color: goldenrod;
+        margin-right: 10px;
+  }
+  #icon2{
+    color: #00afef;
+    margin-left: 10px;
+    margin-right: 5px;
+  }
+  #btn3{
+    width: 99.9%;
+    height: 51px;
+    background-color: #00afef;
+    color: white;
+    margin-top: 6px;
+    border-radius: 5px;
+    border: none;
+  }
+  #btn4{
+    width: 99.9%;
+    height: 51px;
+    background-color: #00afef;
+    color: white;
+    margin-top: 2px;
+    border-radius: 5px;
+    border: none;
+  }
+  #section-3{
+    width: 93%;
+    height: 500px;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 45px;
+    margin-top: 20px
+  }
+  #sub1-s-3{
+      width: 47%;
+      height: 400px;
+      border: 1px solid black;
+  }
+  #sub2-s-3{
+    width: 45%;
+    height: 400px;
+    border: 1px solid black;
+    text-align: center;
+}
+  #iframe{
+    width: 100%;
+    height: 100%;
+  }
+#H2{
+    font-size: 20px;
+    margin-top: 80px;
+    margin-bottom: 20px;
+    font-family :"Open Sans", sans-serif;
+}
+#P14{
+  font-size: 13px;
+  line-height: 23px;
+  font-family :"Open Sans", sans-serif;
+  color: rgb(37, 37, 37);
+}
+#btn5{
+    width: 88px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    font-size: 12px;
+    background-color: #00afef;
+    color: white;
+    font-family :"Open Sans", sans-serif;
+    margin-top: 30px;
+    margin-right: 8px;
+}
+#btn6{
+    width: 140px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid #00afef;
+    background-color: transparent;
+    color: #00afef;
+    font-size: 12px;
+    font-family :"Open Sans", sans-serif;
+    margin-top: 30px;
+}
+#H3{
+    text-align: center;
+    font-family :"Open Sans", sans-serif;
+    font-size: 25px;
+}
+#section-4{
+  width: 93%;
+  height: 200px;
+  border: 1px solid black;
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 45px;
+}
+#sec-4-1{
+    width: 33%;
+    height: 240px;
+    /* border: 1px solid black; */
+    display: flex;
+}
+#sec-4-img{
+  width: 40%;
+  height: 100%;
+  /* border: 1px solid black; */
+}
+#img8{
+  width: 95%;
+  height: 55%;
+  margin-top: 50px;
+}
+#sec-4-text{
+    width: 60%;
+    height: 100%;
+    /* border: 1px solid black; */
+}
+#sec-4-2{
+  width: 33%;
+  height: 240px;
+  /* border: 1px solid black; */
+  display: flex;
+}
+#sec-4-3{
+  width: 33%;
+  height: 240px;
+  /* border: 1px solid black; */
+  display: flex;
+}
+#P15{
+  font-size: 17px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  font-family :"Open Sans", sans-serif;
+}
+#P16{
+  font-family :"Open Sans", sans-serif;
+}
+#section-5{
+    width: 80%;
+    height: 150px;
+    border: 1px solid rgb(182, 181, 181);
+    display: flex;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+#sec-5-1{
+    width: 25%;
+    height: 100%;
+    border: 1px solid rgb(193, 190, 190);
+    text-align: center;
+}
+#img9{
+    width: 22%;
+    height: 30%;
+    margin-top: 30px;
+}
+#P17{
+    margin-bottom: 5px;
+    font-family :"Open Sans", sans-serif;
+}
+#P18{
+  font-family :"Open Sans", sans-serif;
+  color: gray;
+}
+#sec-5-2{
+    width: 35%;
+    height: 100%;
+    /* border: 1px solid black; */
+    text-align: center;
+}
+#sec-5-3{
+  width: 40%;
+  height: 100%;
+  /* border: 1px solid black; */
+  text-align: center;
+}
+#H4{
+  font-family :"Open Sans", sans-serif;
+  font-size: 19px;
+  margin-top: 45px;
+  margin-bottom: 15px;
+}
+#btn7{
+  width: 160px;
+  height: 35px;
+  border:1px solid #00afef;
+  background-color: transparent;
+  border-radius: 5px;
+  color: #00afef;
+}
+#footer{
+    width: 100%;
+    height: 50px;
+    border: 1px solid rgb(209, 204, 204);
+    margin-top: 20px;
+    text-align: center;
+    font-family :"Open Sans", sans-serif;
+    padding-top: 15px;
 }

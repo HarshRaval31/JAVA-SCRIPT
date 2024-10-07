@@ -1,0 +1,92 @@
+{
+   "product" : [
+    {
+        "id" : 1,
+        "image" : "https://images.mamaearth.in/catalog/product/r/i/rice-fw_1.jpg?format=auto&width=400&height=400",
+        "title" : "Rice Face Wash With Rice Water & Niacinamide for Glass Skin - 150 ml",
+        "price" :  399.00,
+        "rating" : 4.3
+    },
+    {
+        "id" : 2,
+        "image" : "https://images.mamaearth.in/catalog/product/u/b/ubtan-face-wash_1_1_2.jpeg?format=auto&width=400&height=400",
+        "title" : "Ubtan Face Wash with Turmeric & Saffron for Tan Removal – 150 ml",
+        "price" :  389.00,
+        "rating" : 4.8
+    },
+    {
+        "id" : 3,
+        "image" : "https://images.mamaearth.in/catalog/product/v/i/vitamin-c-glow-serum_1.jpg?format=auto&width=400&height=400",
+        "title" : "Vitamin C Daily Glow Face Serum With Vitamin C & Turmeric for Radiant Skin - 30 ml",
+        "price" :  499.00,
+        "rating" : 5.2
+    },
+    {
+        "id" : 4,
+        "image" : "https://images.mamaearth.in/catalog/product/m/u/multani_mitti_face_wash_1.jpg?format=auto&width=400&height=400",
+        "title" : "Multani Mitti Face Wash with Multani Mitti & Bulgarian Rose For Oil Control & Acne - 100 ml",
+        "price" :  269.00,
+        "rating" : 5.1
+    },
+    {
+        "id" : 5,
+        "image" : "https://images.mamaearth.in/catalog/product/1/-/1-with-ingredients_3.jpg?format=auto&width=400&height=400",
+        "title" : "Beetroot Gentle Face Wash With Beetroot & Hyaluronic Acid - 100 ml",
+        "price" :  259.00,
+        "rating" : 5.3
+    },
+    {
+        "id" : 6,
+        "image" : "https://images.mamaearth.in/catalog/product/w/i/with-ingredient.jpg?format=auto&width=400&height=400",
+        "title" : "Onion Shampoo with Onion & Plant Keratin for Hair Fall Control - 400ml",
+        "price" :  559.00,
+        "rating" : 4.8
+    },
+    {
+        "id" : 7,
+        "image" : "https://images.mamaearth.in/catalog/product/1/-/1-with-ingredients_11.jpg?format=auto&width=400&height=400",
+        "title" : "Beetroot Daily Glow Face Cream With Beetroot & Hyaluronic Acid - 80 g",
+        "price" :  249.00,
+        "rating" : 5.1
+    },
+    {
+        "id" : 8,
+        "image" : "https://images.mamaearth.in/catalog/product/v/i/vit_c_glow_sunscreen1_white_bg.jpg?format=auto&width=400&height=400  ",
+        "title" : "Vitamin C Daily Glow Sunscreen With Vitamin C & Turmeric for Sun Protection & Glow - 80 g",
+        "price" :  499.00,
+        "rating" : 5.5
+    },
+    {
+        "id" : 9,
+        "image" : "https://images.mamaearth.in/catalog/product/3/_/3_11.jpg?format=auto&width=400&height=400",
+        "title" : "Rosemary Anti-Hair Fall Shampoo with Rosemary & Methi Dana for Reducing Hair Loss & Breakage - 250 ml",
+        "price" :  349.00,
+        "rating" : 5.1
+    },
+    {
+        "id" : 10,
+        "image" : "https://images.mamaearth.in/catalog/product/v/i/vit-c-glow-cream1.jpg?format=auto&width=400&height=400",
+        "title" : "Vitamin C Daily Glow Face Cream With Vitamin C & Turmeric for Skin Illumination - 80 g",
+        "price" :  249.00,
+        "rating" : 4.8
+    },
+    {
+        "id" : 11,
+        "image" : "https://images.mamaearth.in/catalog/product/1/_/1_white_bg_50.jpg?format=auto&width=400&height=400",
+        "title" : "Mamaearth Into the Waves Eau De Parfum For Men - 100 ml",
+        "price" :  539.00,
+        "rating" : 5.4
+    },
+    {
+        "id" : 12,
+        "image" : "https://images.mamaearth.in/catalog/product/w/i/with-claim.jpg?format=auto&width=400&height=400",
+        "title" : "Rosemary Anti-Hair Fall Shampoo with Rosemary & Methi Dana for Reducing Hair Loss & Breakage - 600 ml",
+        "price" :  503.00,
+        "rating" : 5.1
+    }
+   ],
+   "user" : {
+    
+   }
+
+}
