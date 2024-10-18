@@ -59,6 +59,7 @@ function FetchingData() {
                     .catch((err) => {
                         console.log(err)
                     })
+                    Swal.fire("Product has been added to cart...");
             }
         })
         .catch((err) => {

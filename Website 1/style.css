@@ -338,14 +338,15 @@ nav ul li a{
     margin-top: 20px
   }
   #sub1-s-3{
-      width: 47%;
-      height: 400px;
-      border: 1px solid black;
+      width: 40%;
+      height: 350px;
+      /* border-radius: 50px; */
+      /* border: 1px solid black; */
   }
   #sub2-s-3{
     width: 45%;
     height: 400px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     text-align: center;
 }
   #iframe{

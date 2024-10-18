@@ -27,5 +27,9 @@
         })
         .then((res)=>{
             return res.json();
+        }).then((Res)=>{
+            document.querySelector("#box").innerHTML = ""
+        }).catch((err)=>{
+            console.log(err)
         })
     }
